@@ -1,7 +1,7 @@
-airesano
+Aire Sano
 ========
 
-Aplicación realizada en el #HackDF del Laboratorio por la ciudad. 
+Aplicación para iPhone realizada en el #HackDF del Laboratorio por la ciudad. 
 
 
 Según la OSM, en México cerca del 10% de la población sufre de asma, y 40% de ellos la desarrollaron a partir de una rinitis alérgica mal cuidada. Cada año mueren cerca de nueve mil 300 personas por males asociados a la contaminación del aire, como cáncer de pulmón, enfermedades cardiopulmonares e infecciones respiratorias.
