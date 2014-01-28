@@ -11,9 +11,11 @@ Por ello, hemos creado una herramienta para la toma de decisiones frente a los c
 ### Funcionamiento Actual
 
 
-El app actulamente realiza la mayoría de las tareas desde un backend, en el cual se cruza información del servicio de calidad del aire actual, con información historica del nivel de contaminación del distrito federal en condiciones similares de años pasados.
+El app actualmente realiza la mayoría de las tareas desde un backend, en el cual se cruza información del servicio de calidad del aire actual, con información historica del nivel de contaminación del distrito federal en condiciones similares de años pasados.
 
-Para que la información se actulice hay que hacer shake del app. 
+Después del video de presentación, hay que hacer slide a la izquierda para pasar la pantalla principal.
+
+La información de la aplicación se realiza haciendo shake.
 
 ### TODOS
 
@@ -21,3 +23,9 @@ Quitar la simulación de refreshear
 Migrar los webservices a un servicio más abierto
 Hacer que el refresh de la información no sea con shake, sino con Pull to Refresh
 Terminar de editar tabla de recomendaciones con la data historica
+Hacer un vista de recomendaciones más elaborada
+
+
+### Funciones no implementadas aún
+
+El app debe permitir al usuario registrarse a un servicio en el cual va  a definir cuándo se le debe alertar sobre cambios en la calidad del aire, usando como referencia lugares predefinidos como casa o trabajo.
